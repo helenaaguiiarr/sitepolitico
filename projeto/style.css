@@ -1,0 +1,72 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  .header {
+    background-color: #0033A0;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .header nav ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .header nav ul li {
+    display: inline;
+    margin-right: 20px;
+  }
+  
+  .header nav ul li a {
+    color: #FFFF00; /* Yellow color for the text */
+    text-decoration: none; /* Removes underline from links */
+  }
+  
+  .main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #F0F0F0;
+  }
+  
+  .slogan p {
+    font-size: 24px;
+    color: #000;
+    margin: 20px;
+  }
+  
+  .vote-button button {
+    background-color: #000066;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+  }
+  
+  .illustration {
+    background-image: url('path_to_your_image.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 200px; /* Adjust based on your image */
+    width: 100%;
+  }
+  ;
+  
+  
+  .helena{
+
+  }
+    width: 50px;
+    height: 25px
+  
+
+  .nav li {
+    color:white;
+  }
